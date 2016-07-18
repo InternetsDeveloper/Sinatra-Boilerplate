@@ -1,3 +1,3 @@
 # Sinatra Boilerplate
 
-A Simple Sinatra Boilerplate you are welcome to use.  
+A Simple Sinatra Boilerplate anyone is welcome to use.  
