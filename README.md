@@ -1,2 +1,3 @@
-# Sinatra-Boilerplate
-A Boilerplate for a Sinatra Server Build
+# Sinatra Boilerplate
+
+A Simple Sinatra Boilerplate you are welcome to use.  
